@@ -6,13 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-03-21 21:06+0000\n"
+"Last-Translator: İsmail Çağan Yılmaz <ismail.cagan.yilmaz@gmail.com>\n"
 "Language-Team: none\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. module: product_configurator
 #. odoo-python
@@ -22,6 +24,8 @@ msgid ""
 "\n"
 "Attribute/s: %s"
 msgstr ""
+"\n"
+"Nitelik/ler: %s"
 
 #. module: product_configurator
 #. odoo-python
@@ -31,6 +35,8 @@ msgid ""
 "\n"
 "Restriction: %s"
 msgstr ""
+"\n"
+"Kısıtlama: %s"
 
 #. module: product_configurator
 #. odoo-python
@@ -40,92 +46,94 @@ msgid ""
 "\n"
 "Value/s: %s\n"
 msgstr ""
+"\n"
+"Değer/ler: %s\n"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.bmw_2_series
 msgid "2 Series"
-msgstr ""
+msgstr "2 Serisi"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_218d
 msgid "218d"
-msgstr ""
+msgstr "218d"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_218d_coupe_product_template
 msgid "218d Coupé"
-msgstr ""
+msgstr "218d Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_218i
 msgid "218i"
-msgstr ""
+msgstr "218i"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_218i_coupe_product_template
 msgid "218i Coupé"
-msgstr ""
+msgstr "218i Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_220d
 msgid "220d"
-msgstr ""
+msgstr "220d"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_220d_coupe_product_template
 msgid "220d Coupé"
-msgstr ""
+msgstr "220d Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_220d_xdrive
 msgid "220d xDrive"
-msgstr ""
+msgstr "220d xDrive"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_220d_xdrive_coupe_product_template
 msgid "220d xDrive Coupé"
-msgstr ""
+msgstr "220d xDrive Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_220i
 msgid "220i"
-msgstr ""
+msgstr "220i"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_220i_coupe_product_template
 msgid "220i Coupé"
-msgstr ""
+msgstr "220i Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_225d
 msgid "225d"
-msgstr ""
+msgstr "225d"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_225d_coupe_product_template
 msgid "225d Coupé"
-msgstr ""
+msgstr "225d Coupé"
 
 #. module: product_configurator
 #: model:product.attribute.value,name:product_configurator.product_attribute_value_228i
 msgid "228i"
-msgstr ""
+msgstr "228i"
 
 #. module: product_configurator
 #: model:product.template,name:product_configurator.product_engine_228i_coupe_product_template
 msgid "228i Coupé"
-msgstr ""
+msgstr "228i Coupé"
 
 #. module: product_configurator
 #: model_terms:ir.ui.view,arch_db:product_configurator.product_template_kanban_view_inherited
 msgid "<i class=\"fa fa-wrench fa-lg\" title=\"Configure Product\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-wrench fa-lg\" title=\"Ürün Yapılandır\"/>"
 
 #. module: product_configurator
 #: model:ir.model.fields,field_description:product_configurator.field_product_attribute__active
 #: model:ir.model.fields,field_description:product_configurator.field_product_attribute_value__active
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 #. module: product_configurator
 #. odoo-python
