@@ -21,9 +21,9 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[product_configurator](product_configurator/) | 16.0.1.1.1 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Base for product configuration interface modules
-[product_configurator_mrp](product_configurator_mrp/) | 16.0.1.0.0 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | BOM Support for configurable products
-[product_configurator_sale](product_configurator_sale/) | 16.0.1.0.1 | [![PCatinean](https://github.com/PCatinean.png?size=30px)](https://github.com/PCatinean) | Product configuration interface modules for Sale
+[product_configurator](product_configurator/) | 16.0.1.1.2 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Base for product configuration interface modules
+[product_configurator_mrp](product_configurator_mrp/) | 16.0.1.0.0 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | BOM Support for configurable products
+[product_configurator_sale](product_configurator_sale/) | 16.0.1.0.1 | <a href='https://github.com/PCatinean'><img src='https://github.com/PCatinean.png' width='32' height='32' style='border-radius:50%;' alt='PCatinean'/></a> | Product configuration interface modules for Sale
 
 [//]: # (end addons)
 

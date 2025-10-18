@@ -1,6 +1,6 @@
 {
     "name": "Product Configurator",
-    "version": "16.0.1.1.1",
+    "version": "16.0.1.1.2",
     "category": "Generic Modules/Base",
     "summary": "Base for product configuration interface modules",
     "author": "Pledra, Odoo Community Association (OCA)",
@@ -28,6 +28,7 @@
     "assets": {
         "web.assets_backend": [
             "/product_configurator/static/src/scss/form_widget.scss",
+            "/product_configurator/static/src/js/form_controller.esm.js",
             "/product_configurator/static/src/js/form_widgets.js",
             "/product_configurator/static/src/js/boolean_button_widget.esm.js",
             "/product_configurator/static/src/js/boolean_button_widget.xml",
