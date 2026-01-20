@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-26 16:06+0000\n"
+"PO-Revision-Date: 2026-01-19 13:50+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: product_configurator_mrp
 #: model:ir.model.fields,field_description:product_configurator_mrp.field_mrp_bom_line_configuration__value_ids
@@ -206,7 +206,7 @@ msgstr "Prezzo"
 #: model:ir.actions.act_window,name:product_configurator_mrp.action_mrp_bom_line_config_set
 #: model:ir.ui.menu,name:product_configurator_mrp.menu_mrp_bom_line_config_set
 msgid "Product Attribute Sets"
-msgstr "Set attributo prodotto"
+msgstr "Impostazioni attributo prodotto"
 
 #. module: product_configurator_mrp
 #: model:ir.model,name:product_configurator_mrp.model_product_config_session
